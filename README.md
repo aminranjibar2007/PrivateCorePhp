@@ -14,8 +14,8 @@ A lightweight, all-in-one PHP core library for building modern websites and robu
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/php-private-core.git
-cd php-private-core
+git clone https://github.com/aminranjibar2007/PrivateCorePhp.git
+cd PrivateCorePhp
 ```
 
 2. **Include in your project**:
